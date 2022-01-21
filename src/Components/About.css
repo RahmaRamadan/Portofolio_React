@@ -1,0 +1,26 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+.aboutme{
+    background-color: #3d3d3d;/*#4b4b4b*/
+    color: white;
+    margin-top:5%;
+    border-radius: 0%;
+    width:30%;
+    transform: scaleY(1.15);
+}
+.card-content {
+    height: 45vh;
+    border:none;
+}
+.text{
+    color:#636e72;
+    margin-top: 4%;
+}
+.paragraph{
+    font-size:75px;
+    margin-top:5%;
+    margin-left: 15%;
+    text-shadow: 2px 2px 8px #636e72;
+
+}

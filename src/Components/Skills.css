@@ -1,0 +1,86 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.skills_content {
+    margin-top: 2%;
+    text-align: center;
+    background-color: #3d3d3d;
+    color: #ffff;
+    padding-top: 5%;
+    height: 90vh;
+
+}
+
+.h2 {
+    font-size: 55px;
+}
+
+.prog_height {
+    height: 3.6vh;
+    border-radius: 0%;
+
+}
+
+
+.para_skills {
+    padding-top: 4%;
+}
+
+.row_control {
+    height: 5vh;
+    padding-top:2%;
+
+}
+
+.html_width {
+    width: 90%;
+    background: #d1ccc0;
+}
+
+.js_width {
+    width: 80%;
+    background: #d1ccc0;
+
+}
+
+.node_width {
+    width: 70%;
+    background: #d1ccc0;
+
+}
+
+.word_width {
+    width: 50%;
+    background: #d1ccc0;
+}
+
+.btn_bar {
+    color: #ffff;
+    background: #84817a;
+    width: 100%;
+    border: none;
+    border-radius: 0%;
+    margin-right: 0%;
+    height: 4vh;
+
+}
+.list_style{
+    border: none;
+    background:transparent;
+    color: #ffff;
+    font-size:20px;
+}
+.list_parent_style{
+    border-bottom: 1px solid #ffff;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    background:transparent;
+    color: #ffff;
+    font-size:20px;
+
+}
+.list_control{
+    margin-top:25%;
+}

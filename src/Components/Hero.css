@@ -1,0 +1,31 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card_position {
+    height: 20vh;
+    width: 50%;
+    position: absolute;
+    top: 15%;
+    color: #ffff;
+    font-size: 25px;
+    text-align: center;
+    transform: scaleX(1.2);
+}
+
+.h1 {
+    font-size: 30px;
+    padding-bottom: 5%;
+    transform:scale(1.15);
+}
+
+.contactme {
+    color: #ffff;
+    border: 1px solid #ffff;
+    margin-top: 8%;
+    width: 35%;
+}
+
+.card-img {
+    height: 48vh;
+}

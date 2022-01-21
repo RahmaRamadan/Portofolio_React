@@ -1,0 +1,27 @@
+.p_paragraph{
+    font-size:75px;
+    margin-top:2%;
+    margin-left: 8%;
+    text-shadow: 2px 2px 8px #636e72;
+}
+.col_design{
+    border:none;
+    color: #ffff;
+    height:28vh;
+    margin-right: 8%;
+    text-align: center;
+    padding-top: 7%;
+    font-size:25px;
+    margin-bottom: 4%;
+    margin-top: 4%;
+    box-shadow: 8px 8px 8px #636e72;
+}
+.dark_brown{
+    background:#3d3d3d;
+}
+.light_brown{
+    background:#aaa69d;
+}
+.port_content{
+    height:105vh;
+}
